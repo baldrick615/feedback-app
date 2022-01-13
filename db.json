@@ -16,14 +16,14 @@
       "text": "This is feedback item 3 coming from the backend"
     },
     {
-      "rating": "9",
-      "text": "New feedback from Postman",
-      "id": 4
+      "text": "this is coming to the json data be",
+      "rating": 2,
+      "id": 7
     },
     {
-      "rating": "9",
-      "text": "New feedback from Postman",
-      "id": 5
+      "text": "this is an updated item.",
+      "rating": 8,
+      "id": 8
     }
   ]
 }
